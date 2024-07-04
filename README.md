@@ -1,9 +1,9 @@
-#Project-1
+# Project-1
 Monash Data Analytics Bootcamp Group Project
 
-##Exploratory Data Analysis for Asutralia RealEastate Dataset##
+## Exploratory Data Analysis for Asutralia RealEastate Dataset
 
-##Purpose and scope of this EDA##
+## Purpose and scope of this EDA
 The purpose of this EDA is to explore and analyse a real estate dataset to understand underlying patterns, relationships and trends withing the data.
 We are aiming to identify the fectors that affects the house price.
 
