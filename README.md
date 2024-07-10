@@ -26,18 +26,18 @@ Monash Data Analytics Bootcamp Group Project.
 
 + ***Price Distribution :***
 > Hypothesis question    :  What is the distribution shape of real estate prices in the northern territories  ?
-> null hypothesis            : property prices are normally distributed. 
-> Alternative hypothesis : property prices are not normally distributed.
+> > null hypothesis            : property prices are normally distributed.
+> > >Alternative hypothesis : property prices are not normally distributed.
 
 + ***Property Distribution***
 > Which property type has the highest demand in the market.
-> Hypothesis Test Question: null Hypothesis : Apartments are more expensive than the unit.
-> Alternative hypothesis : Apartments are not more expensive than the unit.
+> > Hypothesis Test Question: null Hypothesis : Apartments are more expensive than the unit.
+> > >Alternative hypothesis : Apartments are not more expensive than the unit.
 
 + ***Property Feature Analysis***
 > Is there any correlation between number of bedrooms and property price?
-> Is there any correlation between the number of bathrooms and property price?
-> Is there any correlation between the parking count and property price?
+> > Is there any correlation between the number of bathrooms and property price?
+> > > Is there any correlation between the parking count and property price?
 
 ### Data Source
 For Australia Real Estate analysis
