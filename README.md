@@ -17,7 +17,9 @@ After importing, exploring and analyzing datasets, we realized that the DataSet 
 
 ### Northern Territory region -Property price analysis
 + ***About the Dataset:***
+
 This dataset contains information on 1000 properties in the NT region of Australia, including location, size, price, and other details.
+
 This dataset provided us with an immense opportunity to practice our data cleaning skills using the python programming language.
 
 + ***Our goal is to answer the following questions:***
@@ -25,18 +27,27 @@ This dataset provided us with an immense opportunity to practice our data cleani
 + ***Target Object*** : Price
 
 + ***Price Distribution :***
+
 Hypothesis question    :  What is the distribution shape of real estate prices in the northern territories  ?
+
 null hypothesis        : property prices are normally distributed.
+
 Alternative hypothesis : property prices are not normally distributed.
 
 + ***Property Distribution***
+
 Which property type has the highest demand in the market.
+
 Hypothesis Test Question: null Hypothesis : Apartments are more expensive than the unit.
+
 Alternative hypothesis : Apartments are not more expensive than the unit.
 
 + ***Property Feature Analysis***
+
 Is there any correlation between number of bedrooms and property price?
+
 Is there any correlation between the number of bathrooms and property price?
+
 Is there any correlation between the parking count and property price?
 
 ### Data Source
