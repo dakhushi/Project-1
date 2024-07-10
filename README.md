@@ -1,10 +1,10 @@
 # Project-1
-Monash Data Analytics Bootcamp Group Project
+Monash Data Analytics Bootcamp Group Project.
 
 ### Team 6: Collaborators
-+ Raymond Tang : https://github.com/Raymond8837
-+ Napat        : https://github.com/dakhushi/Project-1-Team-6/commits?author=NVSung
-+ Kajal Jain   : https://github.com/kajalkjain
++ [Raymond Tang](https://github.com/Raymond8837)
++ [Napat](https://github.com/dakhushi/Project-1-Team-6/commits?author=NVSung)
++ [Kajal Jain](https://github.com/kajalkjain)
 
 ### Exploratory Data Analysis for Asutralia RealEastate Dataset
 
@@ -15,7 +15,7 @@ The purpose of this EDA is to explore and analyze a real estate dataset to under
 After importing, exploring and analyzing old datasets, we realized that the DataSet does not support analysis to answer the targeted questions. So we decided to change our dataset and focus only on the Northern Territory region of Australia. 
 
 ### Northern Territory region -Property price analysis
-+ About the Dataset: 
++ About the Dataset:
 This dataset contains information on 1000 properties in the NT region of Australia, including location, size, price, and other details.
 This dataset provided us with an immense opportunity to practice our data cleaning skills using the python programming language.
 
