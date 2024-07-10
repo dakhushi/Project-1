@@ -47,8 +47,8 @@ For Northern Territory region -Property price analysis
 https://www.kaggle.com/datasets/thedevastator/australian-housing-data-1000-properties-sampled/data
 
 ## Refferences:
-> pandas documentation
-> stackoverflow posts
-> https://www.kaggle.com/code/mojtabaameri/australian-housing-prices-eda
-> chat GPT
-> youtube tutorials
+> + pandas documentation
+> + stackoverflow posts
+> + https://www.kaggle.com/code/mojtabaameri/australian-housing-prices-eda
+> + chat GPT
+> + youtube tutorials
