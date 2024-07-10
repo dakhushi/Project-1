@@ -13,16 +13,32 @@ Monash Data Analytics Bootcamp Group Project.
 The purpose of this EDA is to explore and analyze a real estate dataset to understand underlying patterns, relationships and trends within the data.
 We are aiming to identify the factors that affect the house prices in Australia's 5 major cities ( Adelaide,Brisbane, Melbourne, Perth and Sydney).
 
+Key Questions and Insights we tried to work upon,
++ Price analysis: 
+1.What is the average price of proprties in different cities or states?
+2.How does the price districution look like(ex. are there any outliers)
+
++ Size and Space Analysis:
+1. How does the number of Bedrooms and bathrooms corelate with the size of the property?
+
++ Year Built Analysis:
+1. How does the age of the proprty affect the price?
+2. what are the most common construction years?
+
++ Type and garage Analysis:
+1. What type of proprties are most common in different cities or states?
+
 ***Challenges we faced:*** 
 
 After importing, exploring and analyzing datasets, we realized that the DataSet does not support analysis to answer the targeted questions. So we decided to change our dataset and focus only on the Northern Territory region of Australia. 
 
 ### Northern Territory region -Property price analysis
+
 + ***About the Dataset:***
 
 This dataset contains information on 1000 properties in the NT region of Australia, including location, size, price, and other details.
 
-This dataset provided us with an immense opportunity to practice our data cleaning skills using the python programming language.
+This dataset provided us with an excellent opportunity to practice our data cleaning skills and perform multiple analysis to answer our targeted questions.
 
 + ***Our goal is to answer the following questions:***
 
@@ -30,27 +46,23 @@ This dataset provided us with an immense opportunity to practice our data cleani
 
 + ***Price Distribution :***
 
+1. How does the price districution look like(ex. are there any outliers
 Hypothesis question    :  What is the distribution shape of real estate prices in the northern territories  ?
-
 null hypothesis        : property prices are normally distributed.
-
 Alternative hypothesis : property prices are not normally distributed.
 
 + ***Property Distribution***
 
-Which property type has the highest demand in the market.
-
+2. Which property type has the highest demand in the Northen Territory market.
 Hypothesis Test Question: null Hypothesis : Apartments are more expensive than the unit.
-
 Alternative hypothesis : Apartments are not more expensive than the unit.
 
 + ***Property Feature Analysis***
 
-Is there any correlation between number of bedrooms and property price?
-
-Is there any correlation between the number of bathrooms and property price?
-
-Is there any correlation between the parking count and property price?
+How does different features influence the price of the proprty?
+1. Is there any correlation between number of bedrooms and property price?
+2. Is there any correlation between the number of bathrooms and property price?
+3. Is there any correlation between the parking count and property price?
 
 ### Data Source
 For Australia Real Estate analysis
