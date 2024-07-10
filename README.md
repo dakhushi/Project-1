@@ -11,7 +11,7 @@ Monash Data Analytics Bootcamp Group Project.
 ***Purpose and scope of this EDA:***
 
 The purpose of this EDA is to explore and analyze a real estate dataset to understand underlying patterns, relationships and trends within the data.
-We are aiming to identify the factors that affect the house prices in Australia's 5 major cities ( Adelaide,, Melbourne, Perth and Sydney).
+We are aiming to identify the factors that affect the house prices in Australia's 5 major cities ( Adelaide,Brisbane, Melbourne, Perth and Sydney).
 
 ***Challenges we faced:*** 
 
