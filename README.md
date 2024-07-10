@@ -14,18 +14,25 @@ The purpose of this EDA is to explore and analyze a real estate dataset to under
 We are aiming to identify the factors that affect the house prices in Australia's 5 major cities ( Adelaide,Brisbane, Melbourne, Perth and Sydney).
 
 Key Questions and Insights we tried to work upon,
-+ Price analysis: 
+
++ Price analysis:
+
 1.What is the average price of proprties in different cities or states?
+
 2.How does the price districution look like(ex. are there any outliers)
 
 + Size and Space Analysis:
+
 1. How does the number of Bedrooms and bathrooms corelate with the size of the property?
 
 + Year Built Analysis:
+
 1. How does the age of the proprty affect the price?
+
 2. what are the most common construction years?
 
 + Type and garage Analysis:
+
 1. What type of proprties are most common in different cities or states?
 
 ***Challenges we faced:*** 
@@ -47,14 +54,19 @@ This dataset provided us with an excellent opportunity to practice our data clea
 + ***Price Distribution :***
 
 1. How does the price districution look like(ex. are there any outliers
+
 Hypothesis question    :  What is the distribution shape of real estate prices in the northern territories  ?
+
 null hypothesis        : property prices are normally distributed.
+
 Alternative hypothesis : property prices are not normally distributed.
 
 + ***Property Distribution***
 
 2. Which property type has the highest demand in the Northen Territory market.
+
 Hypothesis Test Question: null Hypothesis : Apartments are more expensive than the unit.
+
 Alternative hypothesis : Apartments are not more expensive than the unit.
 
 + ***Property Feature Analysis***
