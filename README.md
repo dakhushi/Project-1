@@ -14,10 +14,10 @@ The purpose of this EDA is to explore and analyze a real estate dataset to under
 
 ***Challenges we faced:*** 
 
-After importing, exploring and analyzing old datasets, we realized that the DataSet does not support analysis to answer the targeted questions. So we decided to change our dataset and focus only on the Northern Territory region of Australia. 
+After importing, exploring and analyzing datasets, we realized that the DataSet does not support analysis to answer the targeted questions. So we decided to change our dataset and focus only on the Northern Territory region of Australia. 
 
 ### Northern Territory region -Property price analysis
-+ **About the Dataset:**
++ ***About the Dataset:***
 
 This dataset contains information on 1000 properties in the NT region of Australia, including location, size, price, and other details.
 This dataset provided us with an immense opportunity to practice our data cleaning skills using the python programming language.
