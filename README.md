@@ -69,15 +69,49 @@ Hypothesis Test Question: null Hypothesis : Apartments are more expensive than t
 
 Alternative hypothesis : Apartments are not more expensive than the unit.
 
++ **Analysis outcome:**
+Under the sample data, house is the most common property type (> 300 counts).
+Apartment and Unit have similar counts (slightly below 200).
+Townhouse has a notable count but is significantly less than House, Apartment, and Unit.
+Other property types (Studio, Acreage, Duplex/Semi-detached, Other, Villa) have very low counts, with Villa being the least common.
+
++ **Conclusion:**
+Houses dominate the market, indicating higher availability and preference for this property type.
+
 + ***Property Feature Analysis***
 
 How do different features influence the price of the property?
+
+Is there any correlation between number of bedrooms and property price?
+Yes, formula: y= 195430.08 + 109896.23 * bedroom count. 1 bedroom more, $109k more on the property price. Clear positive correlation observed. Conclusion: More bedrooms generally lead to higher property prices.
+
 1. Is there any correlation between number of bedrooms and property price?
-2. Is there any correlation between the number of bathrooms and property price?
-3. Is there any correlation between the parking count and property price?
+
+Yes, Positive correlation observed. y= 188292.79 + 184162.97 * bathroom count. 1 bathroom more, $184k more on the property price. 
+
+**Conclusion:** More bathrooms correlate with higher property prices.
+
+3. Is there any correlation between the number of bathrooms and property price?
+
+Yes, Positive correlation observed. y= 188292.79 + 184162.97 * bathroom count. 1 bathroom more, $184k more on the property price.
+
+**Conclusion:** More bathrooms correlate with higher property prices.
+
+6. Is there any correlation between the parking count and property price?
+
+Yes. Positive correlation observed.y= 386281.40 + 52954.85 * parking count. 1 parking more, $52k more on the property price.
+
+**Conclusion:** More parking spaces correlate with higher property prices
 
 + What is the average listing price of the top ten agencies?
+
+Shown in the Graph, please refer Fig 11
+
+
 + What is the market share of the active listing count of top ten agencies?
+
+Shown in the Graph, please refer Fig 10
+
 
 ### Data Source
 For Australia Real Estate analysis
