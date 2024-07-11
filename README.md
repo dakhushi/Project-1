@@ -15,17 +15,22 @@ We are going to explore and analyze a real estate dataset to understand underlyi
 Key Questions and Insights we tried to work upon,
 
 + Price analysis:
++ 
 1.What is the average price of proprties in different cities or states?
+
 2.How does the price distribution look like(ex. are there any outliers)
 
 + Size and Space Analysis:
 1. How does the number of Bedrooms and bathrooms correlate with the size of the property?
 
 + Year Built Analysis:
+
 1. How does the age of the property affect the price?
-2. What are the most common construction years?
+
+3. What are the most common construction years?
 
 + Type and garage Analysis:
+
 1. What type of properties are most common in different cities or states?
 
 ***Challenges we faced:*** 
