@@ -2,7 +2,8 @@
 Monash Data Analytics Bootcamp Group Project.
 
 ***Team 6: Collaborators***
-[khushi](https://github.com/dakhushi) as a Project Leader
+
++ [khushi](https://github.com/dakhushi) as a Project Leader
 + [Raymond Tang](https://github.com/Raymond8837)  as a Data Analyst
 + [Napat](https://github.com/dakhushi/Project-1-Team-6/commits?author=NVSung) as a Data Analyst
 + [Kajal Jain](https://github.com/kajalkjain)  as a Data Analyst
