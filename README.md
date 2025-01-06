@@ -97,25 +97,28 @@ Houses dominate the market, indicating higher availability and preference for th
       - For additional one bedroom , $109k more on the property price.
       - Clear positive correlation observed.
       - **Conclusion:** More bedrooms generally lead to higher property prices.
+      ![image](https://github.com/user-attachments/assets/8892a91e-cec0-414a-9633-a62733171fe3)
 
     - **Is there any correlation between number of Bathroom and property price?**
 
       - Yes, Positive correlation observed. y= 188292.79 + 184162.97 * bathroom count.
       - For additional one bathroom , $184k more on the property price. 
       - **Conclusion:** More bathrooms correlate with higher property prices.
+      ![image](https://github.com/user-attachments/assets/561b5f7f-8780-4064-a39f-524c278c76ea)
 
   - **Is there any correlation between the parking count and property price?**
 
     - Yes. Positive correlation observed.y= 386281.40 + 52954.85 * parking count.
     - 1 parking more, $52k more on the property price.
     - **Conclusion:** More parking spaces correlate with higher property prices
+    ![image](https://github.com/user-attachments/assets/4b2b34c0-2423-4b35-ba2d-5eaa4db3a926)
 
   - **What is the average listing price of the top ten agencies?**
-Shown in the Graph, please refer Fig 11
+    ![image](https://github.com/user-attachments/assets/3214a10b-c71b-49aa-97bf-04facfb1a2b1)
 
 
   - What is the market share of the active listing count of top ten agencies?
-Shown in the Graph, please refer Fig 10
+    ![image](https://github.com/user-attachments/assets/ca628ec0-6dd4-4be3-a681-d71f56f0b6c9)
 
 
 ### Data Source
@@ -129,6 +132,5 @@ https://www.kaggle.com/datasets/thedevastator/australian-housing-data-1000-prope
 + pandas documentation
 + stackoverflow posts
 + https://www.kaggle.com/code/mojtabaameri/australian-housing-prices-eda
-+ chat GPT
 + youtube tutorials
 + [Presentation](https://www.canva.com/design/DAGKcclqCgw/PH8Jo1i9jclEd3CP5xk_OQ/edit?utm_content=DAGKcclqCgw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
