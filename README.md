@@ -11,31 +11,34 @@ Monash Data Analytics Bootcamp Group Project.
 ## Exploratory Data Analysis for Australia RealEstate Dataset
 
 ***Purpose and scope of this EDA:***
+
 The purpose of this EDA is to help the investor to prepare the budget and select the city purchase the property in Australia Cities. 
 We are going to explore and analyze a real estate dataset to understand underlying patterns, relationships and trends within the data.
 
 Key Questions and Insights we tried to work upon,
 
-+ Price analysis:
-+ 
-1.What is the average price of proprties in different cities or states?
+  **Price analysis:**
 
-2.How does the price distribution look like(ex. are there any outliers)
+  - What is the average price of proprties in different cities or states?
+  
+  - How does the price distribution look like(ex. are there any outliers)
 
-+ Size and Space Analysis:
-1. How does the number of Bedrooms and bathrooms correlate with the size of the property?
+  **Size and Space Analysis:**
 
-+ Year Built Analysis:
+  - How does the number of Bedrooms and bathrooms correlate with the size of the property?
 
-1. How does the age of the property affect the price?
+**Year Built Analysis:**
 
-3. What are the most common construction years?
+  - How does the age of the property affect the price?
 
-+ Type and garage Analysis:
+  - What are the most common construction years?
 
-1. What type of properties are most common in different cities or states?
+**Type and garage Analysis:**
 
-***Challenges we faced:*** 
+- What type of properties are most common in different cities or states?
+
+
+**Challenges we faced:**
 
 After importing, exploring and analyzing datasets, we realized that the DataSet does not support analysis to answer the targeted questions. So we decided to change our dataset and focus only on the Northern Territory region of Australia. 
 
@@ -44,74 +47,74 @@ After importing, exploring and analyzing datasets, we realized that the DataSet 
 Purpose and scope of this EDA:
 The purpose of this EDA is to help the investor to prepare the budget and purchase the property in Northern Territory. We are going to explore and analyze a real estate dataset to understand underlying patterns, relationships and trends within the data in Northern Territory. We are aiming to identify the factors that affect the house prices.
 
-+ ***About the Dataset:***
+   **About the Dataset:**
 
-This dataset contains information on 1000 properties in the NT region of Australia, including location, size, price, and other details.
-This dataset provided us with an excellent opportunity to practice our data cleaning skills and perform multiple analysis to answer our targeted questions.
+  This dataset contains information on 1000 properties in the NT region of Australia, including location, size, price, and other details.
+  This dataset provided us with an excellent opportunity to practice our data cleaning skills and perform multiple analysis to answer our targeted questions.
 
-+ ***Our goal is to answer the following questions:***
+  **Our goal is to answer the following questions:**
 
-+ ***Target Object*** : Price
+  + **Target Object** : Price
 
-+ ***Price Distribution :***
+  + **Price Distribution :**
 
-1. How does the price distribution look like(ex. are there any outliers
+    - How does the price distribution look like(ex. are there any outliers)
 
-Hypothesis question    :  What is the distribution shape of real estate prices in the northern territories  ?
+      - Hypothesis question    :  What is the distribution shape of real estate prices in the northern territories  ?
 
-null hypothesis        : property prices are normally distributed.
+      - null hypothesis        : property prices are normally distributed.
 
-Alternative hypothesis : property prices are not normally distributed.
+      - Alternative hypothesis : property prices are not normally distributed.
 
-+ ***Property Distribution***
+  + **Property Distribution***
 
-2. Which property type has the highest demand in the Northern Territory market.
+    - Which property type has the highest demand in the Northern Territory market.
 
-Hypothesis Test Question: null Hypothesis : Apartments are more expensive than the unit.
+      - Hypothesis Test Question: Apartments are more expensive than the unit.
+              
+      - null Hypothesis : Apartments are more expensive than the unit.
 
-Alternative hypothesis : Apartments are not more expensive than the unit.
+      - Alternative hypothesis : Apartments are not more expensive than the unit.
 
-+ **Analysis outcome:**
-Under the sample data, house is the most common property type (> 300 counts).
-Apartment and Unit have similar counts (slightly below 200).
-Townhouse has a notable count but is significantly less than House, Apartment, and Unit.
-Other property types (Studio, Acreage, Duplex/Semi-detached, Other, Villa) have very low counts, with Villa being the least common.
+### Analysis outcome:
 
-+ **Conclusion:**
+- Under the sample data, house is the most common property type (> 300 counts).
+- Apartment and Unit have similar counts (slightly below 200).
+- Townhouse has a notable count but is significantly less than House, Apartment, and Unit.
+- Other property types (Studio, Acreage, Duplex/Semi-detached, Other, Villa) have very low counts, with Villa being the least common.
+
+**Conclusion:**
+
 Houses dominate the market, indicating higher availability and preference for this property type.
 
-+ ***Property Feature Analysis***
+**Property Feature Analysis**
 
-How do different features influence the price of the property?
++ **How do different features influence the price of the property?**
+  
+    - **Is there any correlation between number of Bedrooms and property price?**
 
-Is there any correlation between number of bedrooms and property price?
-Yes, formula: y= 195430.08 + 109896.23 * bedroom count. 1 bedroom more, $109k more on the property price. Clear positive correlation observed. Conclusion: More bedrooms generally lead to higher property prices.
+      - Yes, formula: y= 195430.08 + 109896.23 * bedroom count
+      - For additional one bedroom , $109k more on the property price.
+      - Clear positive correlation observed.
+      - **Conclusion:** More bedrooms generally lead to higher property prices.
 
-1. Is there any correlation between number of bedrooms and property price?
+    - **Is there any correlation between number of Bathroom and property price?**
 
-Yes, Positive correlation observed. y= 188292.79 + 184162.97 * bathroom count. 1 bathroom more, $184k more on the property price. 
+      - Yes, Positive correlation observed. y= 188292.79 + 184162.97 * bathroom count.
+      - For additional one bathroom , $184k more on the property price. 
+      - **Conclusion:** More bathrooms correlate with higher property prices.
 
-**Conclusion:** More bathrooms correlate with higher property prices.
+  - **Is there any correlation between the parking count and property price?**
 
-3. Is there any correlation between the number of bathrooms and property price?
+    - Yes. Positive correlation observed.y= 386281.40 + 52954.85 * parking count.
+    - 1 parking more, $52k more on the property price.
+    - **Conclusion:** More parking spaces correlate with higher property prices
 
-Yes, Positive correlation observed. y= 188292.79 + 184162.97 * bathroom count. 1 bathroom more, $184k more on the property price.
-
-**Conclusion:** More bathrooms correlate with higher property prices.
-
-6. Is there any correlation between the parking count and property price?
-
-Yes. Positive correlation observed.y= 386281.40 + 52954.85 * parking count. 1 parking more, $52k more on the property price.
-
-**Conclusion:** More parking spaces correlate with higher property prices
-
-+ What is the average listing price of the top ten agencies?
-
+  - **What is the average listing price of the top ten agencies?**
 Shown in the Graph, please refer Fig 11
 
 
-+ What is the market share of the active listing count of top ten agencies?
-
+  - What is the market share of the active listing count of top ten agencies?
 Shown in the Graph, please refer Fig 10
 
 
